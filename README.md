@@ -4,16 +4,20 @@ Se va a realizar una pagina web la cual tendra diversos cuestioniarios de difere
 
 ## Integrantes del equipo
 
-Eduardo Fernandez (Edufdezg), Javier de la Hoz (Javierdelahoz4), Ignacio Fernandez (Nachofdez2708)
+Eduardo Fernandez (Edufdezg), Javier de la Hoz (Javierdelahoz4), Ignacio Fernandez (Nachofdez2708), Iñigo Azqueta (inigoazqueta).
 
 ## Objetivos del trabajo
 
-Apareceran cuestionarios como: 
+Apareceran cuestionarios como por ejemplo (lo más probable es que sean sobre otros temas que decidamos más adelante):
 
 1-Cuestionario de personalidad: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre la personalidad del realizador de dicho cuestionario.
+
 2-Cuestionario de inteligencia: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre el IQ del realizador de dicho cuestionario.
+
 3-Cuestionario de moda: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre el tipo de gustos de forma de vestir del realizador de dicho cuestionario.
+
 4-Cuestionario de cultura general: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre el conocimiento del realizador de dicho cuestionario.
+
 5-Cuestionario de politica: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre la orientacion politica del realizador de dicho cuestionario.
 
 La caracteristica de estos cuestionarios se basa en darte un perfil o resultado en funcion de las eleccion realizadas.
