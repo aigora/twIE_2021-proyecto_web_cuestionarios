@@ -1,6 +1,6 @@
-# [Título del trabajo]
+# Proyecto de Web de cuestionarios
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Se va a realizar una pagina web la cual tendra diversos cuestioniarios de diferentes tipos, relacionados con los topicos del dia a dia, donde se podran realizar una multitud tests.
 
 ## Integrantes del equipo
 
