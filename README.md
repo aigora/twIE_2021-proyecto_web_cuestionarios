@@ -1,6 +1,6 @@
 # Proyecto de Web de cuestionarios
 
-Se va a realizar una pagina web la cual tendra diversos cuestioniarios de diferentes tipos, relacionados con los topicos del dia a dia, donde se podran realizar una multitud tests.
+Se va a realizar una pagina web la cual tendra diversos cuestioniarios de diferentes tipos.
 
 ## Integrantes del equipo
 
@@ -8,4 +8,12 @@ Eduardo Fernandez (Edufdezg), Javier de la Hoz (Javierdelahoz4), Ignacio Fernand
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+Apareceran cuestionarios como: 
+
+1-Cuestionario de personalidad: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre la personalidad del realizador de dicho cuestionario.
+2-Cuestionario de inteligencia: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre el IQ del realizador de dicho cuestionario.
+3-Cuestionario de moda: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre el tipo de gustos de forma de vestir del realizador de dicho cuestionario.
+4-Cuestionario de cultura general: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre el conocimiento del realizador de dicho cuestionario.
+5-Cuestionario de politica: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre la orientacion politica del realizador de dicho cuestionario.
+
+La caracteristica de estos cuestionarios se basa en darte un perfil o resultado en funcion de las eleccion realizadas.
