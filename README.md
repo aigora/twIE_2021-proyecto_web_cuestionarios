@@ -4,7 +4,7 @@ Se va a realizar una pagina web la cual tendra diversos cuestioniarios de difere
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Eduardo Fernandez (Edufdezg), Javier de la Hoz (Javierdelahoz4), Ignacio Fernandez (Nachofdez2708)
 
 ## Objetivos del trabajo
 
