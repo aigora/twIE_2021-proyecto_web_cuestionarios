@@ -5,11 +5,10 @@ int main ()
 
 	char cuestionario,F,f, opcion;
 	printf("       ¡¡BIENVENIDO A LA MEJOR PAGINA PARA HACER CUESTIONARIOS!!     \n\n\n");
-    do
-    {
+  
 
     printf("A continuacion seleccione la opcion deseada pulsando la tecla correspondiente\n\n");
-    printf(" 0-Menu general de test e intrucciones\n\n 1-Cuestionario 1\n 2-Cuestionario 1\n 3-Cuestionario 1\n 4-Cuestionario 1\n\n 5-Salir de la pagina\n");
+    printf(" 0-Menu general de test e intrucciones\n\n 1-Cuestionario 1\n 2-Cuestionario 2\n 3-Cuestionario 3\n 4-Cuestionario 4\n\n 5-Salir de la pagina\n");
 	scanf("%c",&opcion);
 
 	switch(opcion) {
@@ -50,6 +49,5 @@ int main ()
 			printf("Pulse 'f' para volver al menu principal\n");
 			scanf("&c", f);
 }
-    }
-    while(opcion!='5');
+   
 return 0;}
