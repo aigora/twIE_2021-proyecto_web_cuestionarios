@@ -4,8 +4,8 @@ int main ()
 {
 
 	char f, opcion;
-	do
-        {
+	
+    
 
             printf("  \n\n     ¡¡BIENVENIDO A LA MEJOR PAGINA PARA HACER CUESTIONARIOS!!     \n\n\n");
             printf("En esta página tiene la posibilidad de realizar cuestionarios/tests de distintos temas. Puede elegir entre:\n\n");
@@ -20,27 +20,27 @@ int main ()
 		case '1' :
 			printf("Cuestionario 1\n\n\n");
 			printf("Pulse 'f' para volver al menu principal\n");
-			scanf("&c", &f);
+			scanf("%c", &f);
 			break;
 		case '2' :
 			printf("Cuestionario 2\n\n\n");
 			printf("Pulse 'f' para volver al menu principal\n");
-			scanf("&c", &f);
+			scanf("%c", &f);
 			break;
 		case '3' :
 			printf("Cuestionario 3\n\n\n");
 			printf("Pulse 'f' para volver al menu principal\n");
-			scanf("&c", &f);
+			scanf("%c", &f);
 			break;
 		case '4' :
 			printf("Cuestionario 4\n\n\n");
 			printf("Pulse 'f' para volver al menu principal\n");
-			scanf("&c", &f);
+			scanf("%c", &f);
 			break;
         case '5':
             printf("Cuestionario 5\n\n\n");
             printf("Pulse 'f' para volver al menu principal\n");
-            scanf("&c", &f);
+            scanf("%c", &f);
             break;
         case '6' :
             printf("Ha pulsado 'salir de la pagina'.\n\n");
@@ -48,16 +48,10 @@ int main ()
             break;
 
         default :
-			printf("El numero introducido no corresponde con ninguna opcion, por favor seleccione otro numero");
-			printf("Pulse 'f' para volver al menu principal\n");
-			scanf("&c", &f);
-}
-}
-    while((opcion!=f)&&(opcion!= '6'));
-
-   return 0;
+			printf("El numero introducido no corresponde con ninguna opcion, por favor seleccione otro numero.");
+			printf("\nPulse 'f' para volver al menu principal\n");
+			scanf("%c", &f);
 }
 
-
-
-
+return 0;
+}
