@@ -36,20 +36,22 @@ int main ()
 			printf("Pulse 'f' para volver al menu principal\n");
 			scanf("&c", f);
 			break;
-                case '5':
-                        printf("Cuestionario 5\n\n\n");
-                        printf("Pulse 'f' para volver al menu principal\n");
-                        scanf("&c", f);
-                        break;
-               case '6' :
-                        printf("\nHa pulsado 'salir de la pagina'.\n\n");
-                        printf(" ¡¡Esperamos que le haya gustado!!\n\n");
-                        break;
+        case '5':
+            printf("Cuestionario 5\n\n\n");
+            printf("Pulse 'f' para volver al menu principal\n");
+            scanf("&c", f);
+             break;
+        case '6' :
+            printf("\nHa pulsado 'salir de la pagina'.\n\n");
+            printf(" ¡¡Esperamos que le haya gustado!!\n\n");
+            break;
        
-               default :
+        default :
 			printf("El numero introducido no corresponde con ninguna opcion, por favor seleccione otro numero.");
 			printf("\nPulse 'f' para volver al menu principal\n");
 			scanf("&c", f);
 }
    return 0;
 }
+
+
