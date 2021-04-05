@@ -7,7 +7,7 @@ int main()
     printf("\n\n                           ¡¡BIENVENIDO A LA MEJOR PAGINA PARA HACER CUESTIONARIOS!!     \n\n");
     do
     {
-        printf("\n\n   En esta página tiene la posibilidad de realizar cuestionarios/tests de distintos temas. Puede elegir entre:\n\n\n\n");
+        printf("\n\n  En esta página tiene la posibilidad de realizar cuestionarios/tests de distintos temas. Puede elegir entre:\n\n\n\n");
         printf("     1-Cuestionario de personalidad.\n     2-Test de cultura general.\n     3-Test de Conducir.\n     4-Cuestionario de Capitales intermacionales.\n     5-Cuestionario de Deportes.\n     6-Salir\n\n");
         printf("\n\n\n  A continuacion seleccione la opcion deseada pulsando la tecla correspondiente:\n\n");
         printf("   Introduzca el numero:");scanf(" %c",&opcion);
@@ -15,7 +15,7 @@ int main()
     {
           case '1':
             printf("\n   Cuestionario 1\n\n\n");
-            printf("   Pulse 'f' y para volver al menu principal\n");
+            printf("   Pulse 'f' para volver al menu principal\n");
             scanf(" %c", &f);
             break;
 
