@@ -11,7 +11,7 @@ Se va a realizar una pagina web la cual tendra diversos cuestioniarios de difere
 
 ## Objetivos del trabajo
 
-Apareceran cuestionarios como por ejemplo (lo más probable es que sean sobre otros temas que decidamos más adelante):
+Apareceran cuestionarios como por ejemplo (lo más probable es que sean sobre otros temas que decidamos más adelante:
 
 1-Cuestionario de personalidad: respondiendo a unas preguntas determinadas, se llegara a una conclusion sobre la personalidad del realizador de dicho cuestionario.
 
