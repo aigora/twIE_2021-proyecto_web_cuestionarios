@@ -1,3 +1,6 @@
+## Cuestionario Personalidad
+
+
 ¿Eres capaz de admitir que te has equivocado en una discusión sin problema?
 
 a)	Si 
@@ -57,3 +60,43 @@ b)	Le intentas ayudar y dar consejo
 a)	Si 
 
 b)	No
+
+¿Alguna vez has dejado de hacer algo para dedicar tiempo a una persona que lo necesitara?
+- [ ] Si
+- [ ] No
+
+¿Sientes indiferencia por como pueden afectar a lo sentimientos de los demás mis actos?
+- [ ] Si
+- [ ] No
+
+Intentas anticiparte a las necesidades de los demás
+- [ ] Si
+- [ ] No
+
+Intentas ser amable con todo el mundo aunque tenga un mal día
+- [ ] Si
+- [ ] No
+
+Si alguien que te cae mal esta pasando una mala situación:
+- [ ] Le intentas ayudar
+- [ ] Te da igual porque te cae mal
+
+¿Consideras que tienes una actitud fría y distante con los demás?
+- [ ] Si
+- [ ] No
+
+Te hace feliz ayudar a los demás 
+- [ ] Si
+- [ ] No
+
+Intentas hacer que la gente se sienta comoda contigo
+- [ ] Si
+- [ ] No
+
+¿Crees que le dedicas suficiente tiempo a la gente que te rodea o en cambio solo te centras en ti?
+- [ ] Si
+- [ ] No
+
+Si esta lloviendo y ves a una persona caída en el suelo:
+- [ ] Pasas de ella y corres para no mojarte
+- [ ] Te preocupas por ella y le ayudas
