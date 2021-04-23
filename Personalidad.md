@@ -100,3 +100,44 @@ Intentas hacer que la gente se sienta comoda contigo
 Si esta lloviendo y ves a una persona caída en el suelo:
 - [ ] Pasas de ella y corres para no mojarte
 - [ ] Te preocupas por ella y le ayudas
+
+
+1.¿Un viernes por la tarde qué prefieres?
+A) Salir con tus amigos 
+B) Quedarte en casa viendo Netflix 
+
+2.¿En un grupo con que opción te identificas más?
+A) Eres alguien que saca tema de conversación o que se uno fácilmente a una conversación
+B) Esperas a que habla el resto del grupo antes y te cuesta mas introducirte a las conversaciones
+
+3.¿Te gusta mucho hacer amigos nuevos?
+A)Si
+B)No
+
+4.¿Te describirías como alguien muy hablador?
+A) Si
+B)No
+
+5.¿Sueles proponer los planes en tu grupo de amigos?
+A)Si
+B)No
+
+6.¿En una discusión qué eres más propenso a hacer?
+A) Dar tu opinión sin pensártelo y participar activamente
+B) Eres mas reservado y das tu opinión raramente
+
+7.¿Con que opción te identificas mas?
+A) Te gusta que la gente sepa como eres y expresar tus gustos y aficiones
+B) Eres reservado al hablar de ti y no sueles compartir lo que te gusta hacer
+
+8.¿ Te sientes cómodo hablando delante de mucha gente?
+A) Si
+B) No
+
+9¿Te incomoda o te molesta ser el centro de atención?
+A) No
+B) Si
+
+10.¿ Te sueles sentir inseguro de ti mismo?
+A) No
+B) Si
