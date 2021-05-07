@@ -43,12 +43,6 @@ Si una persona presumiese de ser mejor que tu…
 
 - [ ]	Le darías la razón y lo dejarías pasar sin importancia
 
-¿Sueles revisar a menudo como te ves frente a un espejo?
-
-- [ ]	Si 
-
-- [ ]	No
-
 Cuando alguien te cuenta un problema…
 
 - [ ]	Cada uno debe hacerse cargo de sus problemas
