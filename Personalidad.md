@@ -3,103 +3,103 @@
 
 ¿Eres capaz de admitir que te has equivocado en una discusión sin problema?
 
-- [ ]	Si 
+d)	Si 
 
-- [ ]	No
+c)	No
 
 ¿Alguna vez te has considerado superior a otras personas por tus pertenencias en redes sociales?
 
-- [ ]	Si 
+c)	Si 
 
-- [ ]	No
+d)	No
 
 En un trabajo en equipo, piensas que es más importante…
 
-- [ ]	Ser el que mas destaca, sin importar lo que opinen los demás
+c)	Ser el que mas destaca, sin importar lo que opinen los demás
 
-- [ ]	Respetar las opiniones y trabajar en conjunto, aunque no seas el que más destaque
+d)	Respetar las opiniones y trabajar en conjunto, aunque no seas el que más destaque
 
 Si durante una discusión alguien tiene una opinión diferente a la tuya…
 
-- [ ]	No tomas a esa persona en serio e intentas demostrar que tu opinión es la correcta
+c)	No tomas a esa persona en serio e intentas demostrar que tu opinión es la correcta
 
-- [ ]	Respetas e intentas comprender la opinión de esa persona, aunque sea totalmente opuesta a la tuya
+d)	Respetas e intentas comprender la opinión de esa persona, aunque sea totalmente opuesta a la tuya
 
 ¿Alguna vez has presumido de algo inventado simplemente para que la gente se fijase en ti?
 
-- [ ]	Si
+c)	Si
 
-- [ ]	No
+d)	No
 
 ¿Crees que eres mejor persona y tienes mejores cualidades que las personas de tu entorno?
 
-- [ ]	Si 
+c)	Si 
 
-- [ ]	No
+d)	No
 
 Si una persona presumiese de ser mejor que tu…
 
-- [ ]	Empezarías una discusión para demostrar lo contrario
+c)	Empezarías una discusión para demostrar lo contrario
 
-- [ ]	Le darías la razón y lo dejarías pasar sin importancia
+d)	Le darías la razón y lo dejarías pasar sin importancia
 
 ¿Sueles revisar a menudo como te ves frente a un espejo?
 
-- [ ]	Si 
+c)	Si 
 
-- [ ]	No
+d)	No
 
 Cuando alguien te cuenta un problema…
 
-- [ ]	Cada uno debe hacerse cargo de sus problemas
+c)	Cada uno debe hacerse cargo de sus problemas
 
-- [ ]	Le intentas ayudar y dar consejo
+d)	Le intentas ayudar y dar consejo
 
 ¿Te preocupas mas de cubrir tus necesidades que las de los demás?
 
-- [ ]	Si 
+c)	Si 
 
-- [ ]	No
+d)	No
 
 ¿Alguna vez has dejado de hacer algo para dedicar tiempo a una persona que lo necesitara?
-- [ ] Si
-- [ ] No
+d) Si
+c) No
 
 ¿Sientes indiferencia por como pueden afectar a lo sentimientos de los demás mis actos?
-- [ ] Si
-- [ ] No
+c) Si
+d) No
 
 Intentas anticiparte a las necesidades de los demás
-- [ ] Si
-- [ ] No
+d) Si
+c) No
 
 Intentas ser amable con todo el mundo aunque tenga un mal día
-- [ ] Si
-- [ ] No
+d) Si
+c) No
 
 Si alguien que te cae mal esta pasando una mala situación:
-- [ ] Le intentas ayudar
-- [ ] Te da igual porque te cae mal
+d) Le intentas ayudar
+c) Te da igual porque te cae mal
 
 ¿Consideras que tienes una actitud fría y distante con los demás?
-- [ ] Si
-- [ ] No
+c) Si
+d) No
 
 Te hace feliz ayudar a los demás 
-- [ ] Si
-- [ ] No
+d) Si
+c) No
 
 Intentas hacer que la gente se sienta comoda contigo
-- [ ] Si
-- [ ] No
+d) Si
+c) No
 
 ¿Crees que le dedicas suficiente tiempo a la gente que te rodea o en cambio solo te centras en ti?
-- [ ] Si
-- [ ] No
+d) Si
+c) No
 
 Si esta lloviendo y ves a una persona caída en el suelo:
-- [ ] Pasas de ella y corres para no mojarte
-- [ ] Te preocupas por ella y le ayudas
+c) Pasas de ella y corres para no mojarte
+d) Te preocupas por ella y le ayudas
 
 
 1.¿Un viernes por la tarde qué prefieres?
