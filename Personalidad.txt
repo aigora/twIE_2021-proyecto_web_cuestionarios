@@ -177,3 +177,7 @@ b) Si
 19. ¿Piensas a menudo en el pasado?
 a) Si
 b) No
+
+20. ¿Alguna vez has evitado saludar a alguien (cambiando de acera, haciendo ver que no le has visto...)?
+a) No
+b) Si
