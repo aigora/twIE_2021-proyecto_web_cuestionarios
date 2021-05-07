@@ -43,6 +43,12 @@ Si una persona presumiese de ser mejor que tu…
 
 - [ ]	Le darías la razón y lo dejarías pasar sin importancia
 
+¿Sueles revisar a menudo como te ves frente a un espejo?
+
+- [ ]	Si 
+
+- [ ]	No
+
 Cuando alguien te cuenta un problema…
 
 - [ ]	Cada uno debe hacerse cargo de sus problemas
@@ -135,3 +141,39 @@ B) Si
 10.¿ Te sueles sentir inseguro de ti mismo?
 A) No
 B) Si
+
+11. ¿Disfrutas siendo parte de un grupo?
+a) Me encatan pasar tiempo reunido
+b) Me gusta más ir por libre
+
+12. ¿Te gusta salir de fiesta con mucha gente?
+a) Sí, cuantos más mejor
+b) No, con los de siempre me conformo
+
+13. ¿Buscas el silencio?
+a) No
+b) Si
+
+14. ¿Quieres que te dejen en paz?
+a) No, solo quiero un momento de tranquilidad
+b) Si, necesito estar tranquilo
+
+15. ¿Alguna vez hablas mal de terceras personas cuando éstas no están presentes?
+a) No
+b) Si
+
+16. ¿Piensas que los demás te critican?
+a) No 
+b) Si
+
+17. ¿Te consideras nervioso/a?
+a) No 
+b) Si
+
+18. ¿Tienes cambios de humor más o menos repentinos?
+a) No
+b) Si
+
+19. ¿Piensas a menudo en el pasado?
+a) Si
+b) No
