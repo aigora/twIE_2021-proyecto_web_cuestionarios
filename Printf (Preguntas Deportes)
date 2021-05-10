@@ -1,0 +1,117 @@
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+
+ int main()
+ {
+   printf( "Has seleccionado el Cuestionario de Deportes\n" );
+   printf( "Tendrás que responder a las cuestiones escogiendo una de las tres opciones (solo hay una que es correta)\n" );
+   printf( "Para elegir una pregunta, escribe la letra de la respuesta (a, b, c)\n" );
+   printf( "¡COMENCEMOS!\n\n\n" );
+
+
+
+   printf( "DEPORTES EN GENERAL\n");
+
+   printf( "1-¿Cuál es el deporte más practicado en el mundo?\n");
+   printf( " a)	Fútbol\n b)	Tenis\n c)	Natación\n\n");
+
+   printf( "2-¿Cuál es el deporte más caro del mundo?\n");
+   printf( " a)	Polo\n b)	Golf\n c)	Hipica\n\n");
+
+   printf( "3-De estos tres deportes, ¿cuál no es un deporte de precisión?\n");
+   printf( " a)	Golf\n b)	Dardos\n c)	Fronton\n\n");
+
+   printf( "4-¿Cuál es el deporte más peligroso del mundo?\n");
+   printf( " a)	Motociclismo\n b)	Salto base\n c)	Escalada libre\n\n");
+
+   printf( "5-¿Qué deporte quema más calorías?\n");
+   printf( " a)	Natacion\n b)	Running\n c)	Ciclismo\n\n\n\n\n");
+
+
+   /*-------------------------------------------------------*/
+
+
+   printf( "JUEGOS OLIMPICOS\n");
+
+   printf( "6-¿En qué siglo se realizaron los primeros Juegos Olímpicos?\n");
+   printf( " a)	VII a.C\n b)	IV a.C\n c)	XVIII d.C\n\n");
+
+   printf( "7-¿Cuál de estos deportes se practica en los Juegos Olímpicos?\n");
+   printf( " a)	Judo\n b)	Ajedrez\n c)	Sumo\n\n");
+
+   printf( "8-¿Cuál de estos deportes es el que tiene más medallas olímpicas?\n");
+   printf( " a)	Tenis\n b)	Vela\n c)	Piraguismo\n\n");
+
+   printf( "9-¿Qué no representa la Bandera Olímpica?\n");
+   printf( " a)	Los colores de las banderas de los primeros países participantes\n b)	Universalidad y representatividad de los 5 continentes\n c)	El número y color de las categorías deportivas\n\n");
+
+   printf( "10-¿De qué metal/metales están fabricadas las medallas de Oro?\n");
+   printf( " a)	Únicamente de oro\n b) 6 gramos de oro, 494 gramos de plata, cobre, estaño y zinc\n c) 125 gramos de oro, 242 plata y 113 de cobre\n\n\n\n\n");
+
+
+   /*-------------------------------------------------------*/
+
+
+   printf( "FÚBOL ESPAÑOL\n");
+
+   printf( "11-¿Cuántos equipos de primera división España o Liga Santander hay?\n");
+   printf( " a)	20\n b)	17\n c)	18\n\n");
+
+   printf( "12-¿Cuántos equipos de segunda división hay?\n");
+   printf( " a)	20\n b) 18\n c) 22\n\n");
+
+   printf( "13-¿En qué año se fundó La Liga de fútbol Española?\n");
+   printf( " a)	En 1911\n b) En 1929\n c) En 1945\n\n");
+
+   printf( "14-¿Cuántas ocasiones se ha visto interrumpida La Liga?\n");
+   printf( " a)	Ninguna\n b) 1\n c)	2\n\n");
+
+   printf( "15-¿Qué equipo tiene más títulos generales?\n");
+   printf( " a)	F. C. Barcelona* (97)\n b) Real Madrid C. F. (95)\n c) Athletic Club (35)\n\n\n\n\n");
+
+
+   /*-------------------------------------------------------*/
+
+
+   printf( "TENIS\n");
+
+   printf( "16-¿De qué materiales están fabricadas las cuerdas de las raquetas de tenis?\n");
+   printf( " a)	De tripa de vaca/poliéster/nylon\n b)	De tripa de vaca/nylon/algodón\n c)	De poliéster/nylon/bambú\n\n");
+
+   printf( "17-¿Por qué las pelotas de tenis tienen pelo?\n");
+   printf( " a)	El pelo frena la bola en el aire, y hace que no bote muy alto y se pueda dar efecto\n b)	Por seguridad, el pelo hace que no corte la piel al recibir un impacto de la bola\n c)	El pelo consigue aligerar el peso de la bola y que aguante los golpes de la raqueta\n\n");
+
+   printf( "18-¿Cuál de estos tenistas ha ganado más campeonatos?\n");
+   printf( " a)	\n b)	\n c)	\n\n");
+
+   printf( "19-¿Con qué partes del cuerpo se puede devolver la pelota al contrincante?\n");
+   printf( " a)	Con la mano, en el caso de no tener la raqueta\n b)	Con la mano que sujeta la raqueta, es decir, desde el mango\n c)	Con ninguna, sólo con la raqueta\n\n");
+
+   printf( "20-¿En qué país nació el Tenis?\n");
+   printf( " a)	Alemania\n b)	Francia\n c)	Inglaterra\n\n\n\n\n");
+
+
+   /*-------------------------------------------------------*/
+
+
+   printf( "BALONCESTO\n");
+
+   printf( "21-¿Cuándo se creó el baloncesto?\n");
+   printf( " a)	A principios del siglo XIV\n b)	A finales del siglo XIV\n c)	A mediados del siglo XXn\n");
+
+   printf( "22-¿Cuántos jugadores participaban en un partido en los inicios del baloncesto?\n");
+   printf( " a)	18\n b)	10\n c)	12\n\n");
+
+   printf( "23-¿Qué partido verídico de la NBA fue en el que se anotaron más puntos en total?\n");
+   printf( " a)	143 Los Angeles Lakers VS 127 Dallas Mavericks\n b)	186 Detroit Pistons VS 184 Denver Nuggets\n c)	155 Chicago Bulls VS 153 Detroit Pistons\n\n");
+
+   printf( "24-¿Cuál de estas faltas no existe en el reglamento de baloncesto?\n");
+   printf( " a)	Falta de saque\n b)	Falta de tiro\n c)	Falta de carga\n\n\n\n\n");
+
+   printf( "25-¿Cuál es el jugador más bajo que ha jugado en la NBA?\n");
+   printf( " a)	Spud Webb (1,68)\n b)	Muggsy Bogues (1,60)\n c)	Earl Boykins (1,65)\n\n\n\n");
+
+
+
+  }
