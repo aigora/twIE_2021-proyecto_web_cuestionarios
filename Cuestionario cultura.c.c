@@ -40,7 +40,7 @@ int main()
           case '1':
               system("cls"); //Borra todo lo anterior en el compilador
             printf("\n   Cuestionario 1\n\n\n");
-            printf("A continuacion debera responder a las preguntas formuladas eligiendo la respuesta entre las tres opciones dadas\n");
+            printf("\t A continuacion debera responder a las preguntas formuladas eligiendo la respuesta entre las tres opciones dadas\n");
 
              ctriocta1();
              ctriocta2();
@@ -103,8 +103,6 @@ void ctriocta1(){
 	int opcion;
 	cuestionario1 cultura[100]; //Declaracion del vector de estructuras
 
-	printf("\n Pregunta 1\n\n");
-
 	pf1 = fopen("Cuestionario cultura 1.txt", "r"); //Abre el fichero indicado
 
 	if(pf1 == NULL){ //Si no encuentra el fichero avisa con un error
@@ -146,7 +144,6 @@ void ctriocta2(){
 	int opcion;
 	cuestionario1 cultura[100]; //Declaracion del vector de estructuras
 
-	printf("\n Pregunta 2\n\n");
 
 	pf1 = fopen("Cuestionario cultura 2.txt", "r"); //Abre el fichero indicado
 
@@ -189,8 +186,6 @@ void ctriocta3(){
 	int opcion;
 	cuestionario1 cultura[100]; //Declaracion del vector de estructuras
 
-	printf("\n Pregunta 3\n\n");
-
 	pf1 = fopen("Cuestionario cultura 3.txt", "r"); //Abre el fichero indicado
 
 	if(pf1 == NULL){ //Si no encuentra el fichero avisa con un error
@@ -232,7 +227,6 @@ void ctriocta4(){
 	int opcion;
 	cuestionario1 cultura[100]; //Declaracion del vector de estructuras
 
-	printf("\n Pregunta 4\n\n");
 
 	pf1 = fopen("Cuestionario cultura 4", "r"); //Abre el fichero indicado
 
@@ -275,7 +269,6 @@ void ctriocta5(){
 	int opcion;
 	cuestionario1 cultura[100]; //Declaracion del vector de estructuras
 
-	printf("\n Pregunta 5\n\n");
 
 	pf1 = fopen("Cuestionario cultura 5", "r"); //Abre el fichero indicado
 
