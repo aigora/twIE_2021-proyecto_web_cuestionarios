@@ -40,7 +40,7 @@ int main()
           case '1':
               system("cls"); //Borra todo lo anterior en el compilador
             printf("\n   Cuestionario 1\n\n\n");
-            printf("\t A continuacion debera responder a las preguntas formuladas eligiendo la respuesta entre las tres opciones dadas\n");
+            printf(" A continuacion debera responder a las preguntas formuladas eligiendo la respuesta entre las tres opciones dadas\n");
 
              ctriocta1();
              ctriocta2();
