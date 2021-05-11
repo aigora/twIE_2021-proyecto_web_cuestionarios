@@ -28,10 +28,10 @@ int main()
 {
     char opcion,f;
 
-    printf("\n\n                           ¡¡BIENVENIDO A LA MEJOR PAGINA PARA HACER CUESTIONARIOS!!     \n\n");
+    printf("\n\n                           Â¡Â¡BIENVENIDO A LA MEJOR PAGINA PARA HACER CUESTIONARIOS!!     \n\n");
     do
     {
-        printf("\n\n  En esta página tiene la posibilidad de realizar cuestionarios/tests de distintos temas. Puede elegir entre:\n\n\n\n");
+        printf("\n\n  En esta pÃ¡gina tiene la posibilidad de realizar cuestionarios/tests de distintos temas. Puede elegir entre:\n\n\n\n");
         printf("     1-Cuestionario de personalidad.\n     2-Test de cultura general.\n     3-Test de Conducir.\n     4-Cuestionario de Capitales intermacionales.\n     5-Cuestionario de Deportes.\n     6-Salir\n\n");
         printf("\n\n\n  A continuacion seleccione la opcion deseada pulsando la tecla correspondiente:\n\n");
         printf("   Introduzca el numero:");scanf(" %c",&opcion);
@@ -78,7 +78,7 @@ int main()
 
           case '6':
             printf("\n\n   Ha decidido salir de esta pagina.\n\n");
-            printf("   ¡¡Esperamos que le haya gustado!!\n\n");
+            printf("   Â¡Â¡Esperamos que le haya gustado!!\n\n");
             break;
 
 
@@ -132,7 +132,7 @@ void ctriocta1(){
 		printf("No se ha podido crear el fichero");
 	}
 
-	// Escribe en el fichero el nombre del portero elegido
+	
 	fprintf(pf2, "Pregunta: %s \t\t Respuesta: %s\n", cultura[opcion-1].pta, cultura[opcion-1].rpta3);
 	fclose(pf2); //Cierra el fichero
 }
@@ -174,7 +174,7 @@ void ctriocta2(){
 		printf("No se ha podido crear el fichero");
 	}
 
-	// Escribe en el fichero el nombre del portero elegido
+	
 	fprintf(pf2, "Pregunta: %s \t\t Respuesta: %s\n", cultura[opcion-1].pta, cultura[opcion-1].rpta3);
 	fclose(pf2); //Cierra el fichero
 }
@@ -215,7 +215,7 @@ void ctriocta3(){
 		printf("No se ha podido crear el fichero");
 	}
 
-	// Escribe en el fichero el nombre del portero elegido
+	
 	fprintf(pf2, "Pregunta: %s \t\t Respuesta: %s\n", cultura[opcion-1].pta, cultura[opcion-1].rpta3);
 	fclose(pf2); //Cierra el fichero
 }
@@ -257,7 +257,7 @@ void ctriocta4(){
 		printf("No se ha podido crear el fichero");
 	}
 
-	// Escribe en el fichero el nombre del portero elegido
+	
 	fprintf(pf2, "Pregunta: %s \t\t Respuesta: %s\n", cultura[opcion-1].pta, cultura[opcion-1].rpta3);
 	fclose(pf2); //Cierra el fichero
 }
@@ -299,7 +299,7 @@ void ctriocta5(){
 		printf("No se ha podido crear el fichero");
 	}
 
-	// Escribe en el fichero el nombre del portero elegido
+	
 	fprintf(pf2, "Pregunta: %s \t\t Respuesta: %s\n", cultura[opcion-1].pta, cultura[opcion-1].rpta3);
 	fclose(pf2); //Cierra el fichero
 }
