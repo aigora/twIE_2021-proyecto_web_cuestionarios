@@ -81,10 +81,6 @@ Si alguien que te cae mal esta pasando una mala situación:
 d) Le intentas ayudar
 c) Te da igual porque te cae mal
 
-¿Consideras que tienes una actitud fría y distante con los demás?
-c) Si
-d) No
-
 Te hace feliz ayudar a los demás 
 d) Si
 c) No
@@ -174,10 +170,6 @@ b) Si
 a) No
 b) Si
 
-19. ¿Piensas a menudo en el pasado?
-a) Si
-b) No
-
-20. ¿Alguna vez has evitado saludar a alguien (cambiando de acera, haciendo ver que no le has visto...)?
+19. ¿Alguna vez has evitado saludar a alguien (cambiando de acera, haciendo ver que no le has visto...)?
 a) No
 b) Si
