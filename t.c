@@ -8,16 +8,20 @@ typedef struct
   char preguntas[150];
   char opciones[150];
   char soluciones[30];
-  char respuestas[30];
 } cuestionario;
 
 int main()
 {
   cuestionario vector[N];
   FILE *fpreguntas,*fopciones,*fsoluciones;
-  int i = 0,x=0;
+  int i = 0,u=0,x=0;
   char n,s,soluciones[30];
   fsoluciones = fopen("Cultura_Soluciones.txt", "r");
+   while (fscanf(fsoluciones,"%[^\n]\n", vector[u].soluciones) != EOF)
+   {
+     soluciones[u]=vector[u];
+    u++;
+   }
    
   
   fpreguntas = fopen("Cultura_Preguntas.txt", "r");
@@ -30,8 +34,7 @@ int main()
       if (n==s)
         x=+1;*/
       
-      
-      i++;
+       i++;
     }
   
   fclose(fpreguntas);
