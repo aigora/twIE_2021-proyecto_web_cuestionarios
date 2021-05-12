@@ -1,201 +1,38 @@
 1. ¿Un viernes por la tarde qué prefieres?
-a) Salir con tus amigos 
-
-b) Quedarte en casa viendo Netflix 
-
 2. ¿En un grupo con que opción te identificas más?
-a) Eres alguien que saca tema de conversación o que se uno fácilmente a una conversación
-
-b) Esperas a que habla el resto del grupo antes y te cuesta mas introducirte a las conversaciones
-
 3. ¿Te gusta mucho hacer amigos nuevos?
-a)Si
-
-b)No
-
 4. ¿Te describirías como alguien muy hablador?
-a) Si
-
-b)No
-
 5. ¿Sueles proponer los planes en tu grupo de amigos?
-a)Si
-
-b)No
-
 6. ¿En una discusión qué eres más propenso a hacer?
-a) Dar tu opinión sin pensártelo y participar activamente
-
-b) Eres mas reservado y das tu opinión raramente
-
 7. ¿Con que opción te identificas mas?
-a) Te gusta que la gente sepa como eres y expresar tus gustos y aficiones
-
-b) Eres reservado al hablar de ti y no sueles compartir lo que te gusta hacer
-
 8. ¿ Te sientes cómodo hablando delante de mucha gente?
-a) Si
-
-b) No
-
 9. ¿Te incomoda o te molesta ser el centro de atención?
-a) No
-
-b) Si
-
 10. ¿ Te sueles sentir inseguro de ti mismo?
-a) No
-
-b) Si
-
 11. ¿Disfrutas siendo parte de un grupo?
-a) Me encatan pasar tiempo reunido
-
-b) Me gusta más ir por libre
-
 12. ¿Te gusta salir de fiesta con mucha gente?
-a) Sí, cuantos más mejor
-
-b) No, con los de siempre me conformo
-
 13. ¿Buscas el silencio?
-a) No
-
-b) Si
-
 14. ¿Quieres que te dejen en paz?
-a) No, solo quiero un momento de tranquilidad
-
-b) Si, necesito estar tranquilo
-
 15. ¿Alguna vez hablas mal de terceras personas cuando éstas no están presentes?
-a) No
-
-b) Si
-
 16. ¿Piensas que los demás te critican?
-a) No 
-
-b) Si
-
 17. ¿Te consideras nervioso/a?
-a) No 
-
-b) Si
-
 18. ¿Tienes cambios de humor más o menos repentinos?
-a) No
-
-b) Si
-
 19. ¿Alguna vez has evitado saludar a alguien (cambiando de acera, haciendo ver que no le has visto...)?
-a) No
-
-b) Si
-
 20. ¿Eres capaz de admitir que te has equivocado en una discusión sin problema?
-
-c)	No
-
-d)	Si
-
 21. ¿Alguna vez te has considerado superior a otras personas por tus pertenencias en redes sociales?
-
-c)	Si 
-
-d)	No
-
 22. En un trabajo en equipo, piensas que es más importante…
-
-c)	Ser el que mas destaca, sin importar lo que opinen los demás
-
-d)	Respetar las opiniones y trabajar en conjunto, aunque no seas el que más destaque
-
 23. Si durante una discusión alguien tiene una opinión diferente a la tuya…
-
-c)	No tomas a esa persona en serio e intentas demostrar que tu opinión es la correcta
-
-d)	Respetas e intentas comprender la opinión de esa persona, aunque sea totalmente opuesta a la tuya
-
 24. ¿Alguna vez has presumido de algo inventado simplemente para que la gente se fijase en ti?
-
-c)	Si
-
-d)	No
-
 25. ¿Crees que eres mejor persona y tienes mejores cualidades que las personas de tu entorno?
-
-c)	Si 
-
-d)	No
-
 26. Si una persona presumiese de ser mejor que tu…
-
-c)	Empezarías una discusión para demostrar lo contrario
-
-d)	Le darías la razón y lo dejarías pasar sin importancia
-
 27. ¿Sueles revisar a menudo como te ves frente a un espejo?
-
-c)	Si 
-
-d)	No
-
 28. Cuando alguien te cuenta un problema…
-
-c)	Cada uno debe hacerse cargo de sus problemas
-
-d)	Le intentas ayudar y dar consejo
-
 29. ¿Te preocupas mas de cubrir tus necesidades que las de los demás?
-
-c)	Si 
-
-d)	No
-
 30. ¿Alguna vez has dejado de hacer algo para dedicar tiempo a una persona que lo necesitara?
-c) No
-
-d) Si
-
 31. ¿Sientes indiferencia por como pueden afectar a lo sentimientos de los demás mis actos?
-c) Si
-
-d) No
-
 32. Intentas anticiparte a las necesidades de los demás
-c) No
-
-d) Si
-
 33. Intentas ser amable con todo el mundo aunque tenga un mal día
-c) No
-
-d) Si
-
 34. Si alguien que te cae mal esta pasando una mala situación:
-c) Te da igual porque te cae mal
-
-d) Le intentas ayudar
-
 35. Te hace feliz ayudar a los demás 
-c) No
-
-d) Si
-
 36. Intentas hacer que la gente se sienta comoda contigo
-c) No
-
-d) Si
-
 37. ¿Crees que le dedicas suficiente tiempo a la gente que te rodea o en cambio solo te centras en ti?
-c) No
-
-d) Si
-
 38. Si esta lloviendo y ves a una persona caída en el suelo:
-c) Pasas de ella y corres para no mojarte
-
-d) Te preocupas por ella y le ayudas
-
-
