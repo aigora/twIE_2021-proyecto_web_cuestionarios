@@ -19,11 +19,11 @@ int SolDeporte  (int x)
 {
     int x;
     if (x>13)
-      printf("Has conseguido %d respuestas bien sobre 30!!\n\nWow se te da genial el deporte!! Me he quedado impresionado.\n",x);
+      printf("Has conseguido %d respuestas bien sobre 25!!\n\nWow se te da genial el deporte!! Me he quedado impresionado.\n",x);
     else if (x=13)
-      printf("Has conseguido %d respuestas bien sobre 30!!\n\nUn aprobado justo, no esta mal pero si quieres dominar la teoría de los deportes tendrás que estudiar más.\n",x);
+      printf("Has conseguido %d respuestas bien sobre 25!!\n\nUn aprobado justo, no esta mal pero si quieres dominar la teoría de los deportes tendrás que estudiar más.\n",x);
     else
-      printf("Has conseguido %d respuestas bien sobre 30!!\n\nNOO que mal, no sabes nada de deportes, pero no te desanimes, prueba otra vez e intenta conseguir un mejor resultado!\n",x);
+      printf("Has conseguido %d respuestas bien sobre 25!!\n\nNOO que mal, no sabes nada de deportes, pero no te desanimes, prueba otra vez e intenta conseguir un mejor resultado!\n",x);
   return 0;  
 }
 int SolCultura  (int x)
