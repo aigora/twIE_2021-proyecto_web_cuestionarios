@@ -5,28 +5,26 @@
 
 typedef struct
 {
-  char pregunta[150];
+  char preguntas[150];
   char opciones[150];
   char soluciones[30];
   char respuestas[30];
-} pregunta;
+} cuestionario;
 
 int main()
 {
-  pregunta preguntas[N];
-  opciones opciones[N];
-  soluciones soluciones[N];
-  respuestas respuestas[N];
-  FILE *fpreguntas,*frespuestas,*fopciones,*fsoluciones;
+  cuestionario vector[N];
+  FILE *fpreguntas,*fopciones,*fsoluciones;
   int i = 0,x=0;
-  char n,s;
-
+  char n,s,soluciones[30];
+  fsoluciones = fopen("Cultura_Soluciones.txt", "r");
+  
+  
   fpreguntas = fopen("Cultura_Preguntas.txt", "r");
   fopciones = fopen("Cultura_Opciones.txt", "r");
-  fsoluciones = fopen("Cultura_Soluciones.txt", "r");
-  while(fscanf(fpreguntas, "%[^\n]\n %[^;]\n %[^;]\n %[^;]\n", preguntas[i].pregunta,opciones[i].opciones,opciones[i].opciones,opciones[i].opciones) != EOF)
+  while(fscanf(fpreguntas, "%[^\n]\n %[^;]\n %[^;]\n %[^;]\n", cuestionario[i].preguntas,cuestionario[i].opciones,cuestionario[i].opciones, cuestionario[i].opciones) != EOF)
     {
-      printf("%s\n%s\n%s\n%s\n", preguntas[i].pregunta,opciones[i].opciones,opciones[i].opciones,opciones[i].opciones);
+      printf("%s\n%s\n%s\n%s\n",cuestionario[i].preguntas,cuestionario[i].opciones,cuestionario[i].opciones,cuestionario[i].opciones);
       s=soluciones[i];
       scanf("%c",&n);
       if (n==s)
