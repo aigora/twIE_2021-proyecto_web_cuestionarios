@@ -22,9 +22,9 @@ int main()
   
   fpreguntas = fopen("Cultura_Preguntas.txt", "r");
   fopciones = fopen("Cultura_Opciones.txt", "r");
-  while(fscanf(fpreguntas, "%[^\n]\n", vector[i].preguntas) && fscanf(fopciones,"%[^;]\n %[^;]\n %[^;]\n",vector[i].opciones,vector[i].opciones, vector[i].opciones) != EOF)
+  while(fscanf(fpreguntas, "%[^\n]\n", vector[i].preguntas) && fscanf(fopciones,"%[^;]\n",vector[i].opciones) != EOF)
     {
-      printf("%s\n%s\n%s\n%s\n",vector[i].preguntas,vector[i].opciones,vector[i].opciones,vector[i].opciones);
+      printf("%s\n\n%s\n\n",vector[i].preguntas,vector[i].opciones);
       /*s=soluciones[i];
       scanf("%c",&n);
       if (n==s)

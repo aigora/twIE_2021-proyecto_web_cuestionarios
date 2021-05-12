@@ -1,5 +1,5 @@
-a) Nilo; b) Mississippi; c) Amazonas;
-a) 10.356m; b) 11.034 m; c) 9.894 m;
+a) Nilo b) Mississippi c) Amazonas;
+a) 10.356m b) 11.034 m c) 9.894 m;
 a) Noruega; b) Rusia; c) Canadá;
 a) Italia; b)	España; c) Grecia;
 a) Griego; b)	Islandés; c) Vasco;
