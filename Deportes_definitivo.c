@@ -17,9 +17,9 @@ int main()
   int i = 0,x=0;
   char n;
 
-  fsoluciones = fopen("Cultura_Soluciones.txt","r");
-  fpreguntas = fopen("Cultura_Preguntas.txt", "r");
-  fopciones = fopen("Cultura_Opciones.txt", "r");
+  fsoluciones = fopen("Deportes_Soluciones.txt","r");
+  fpreguntas = fopen("Deportes_Preguntas.txt", "r");
+  fopciones = fopen("Deportes_Opciones.txt", "r");
   while(fscanf(fpreguntas, "%[^\n]\n", vector[i].preguntas) !=EOF && fscanf(fopciones,"%[^\n]\n",vector[i].opciones) != EOF && fscanf(fsoluciones,"%[^\n]\n",&vector[i].soluciones) !=EOF)
     {
       printf("%s\n\n%s\n\n",vector[i].preguntas,vector[i].opciones);
