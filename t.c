@@ -5,35 +5,29 @@
 
 typedef struct
 {
-  char preguntas[150];
+  char preguntas[200];
   char opciones[150];
-  char soluciones[30];
+  char soluciones;
 } cuestionario;
 
 int main()
 {
   cuestionario vector[N];
   FILE *fpreguntas,*fopciones,*fsoluciones;
-  int i = 0,u=0,x=0;
-  char n,s,soluciones[30];
-  fsoluciones = fopen("Cultura_Soluciones.txt", "r");
-   while (fscanf(fsoluciones,"%[^\n]\n", vector[u].soluciones) != EOF)
-   {
-     soluciones[u]=vector[u];
-    u++;
-   }
-   
+  int i = 0,x=0;
+  char n;
   
+  fsoluciones = fopen("Cultura_Soluciones.txt","r");
   fpreguntas = fopen("Cultura_Preguntas.txt", "r");
   fopciones = fopen("Cultura_Opciones.txt", "r");
-  while(fscanf(fpreguntas, "%[^\n]\n", vector[i].preguntas) && fscanf(fopciones,"%[^;]\n",vector[i].opciones) != EOF)
+  while(fscanf(fpreguntas, "%[^\n]\n", vector[i].preguntas) !=EOF && fscanf(fopciones,"%[^\n]\n",vector[i].opciones) != EOF && fscanf(fsoluciones,"%[^\n]\n",&vector[i].soluciones) !=EOF)
     {
       printf("%s\n\n%s\n\n",vector[i].preguntas,vector[i].opciones);
-      /*s=soluciones[i];
-      scanf("%c",&n);
-      if (n==s)
-        x=+1;*/
       
+      scanf(" %c",&n); 
+      if (n==vector[i].soluciones)
+        x++;
+  
        i++;
     }
   
