@@ -1,3 +1,5 @@
+ #include<stdio.h>
+
 int SolConducir (int x);
 int SolDeporte  (int x);
 int SolCultura  (int x);
