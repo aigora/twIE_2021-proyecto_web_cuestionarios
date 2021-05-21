@@ -1,5 +1,6 @@
 #include"CodSoluciones.h"
-
+#include<stdio.h>
+#include<time.h>
 
 int SolConducir (int x)
 {
