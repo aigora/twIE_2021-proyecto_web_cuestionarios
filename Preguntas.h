@@ -6,6 +6,7 @@
 #define U 38
 
 int Personalidad_definitivo (int a,int b,int c,int d);
+int Cultura_definitivo (int x);
 
 
 
@@ -60,3 +61,41 @@ typedef struct
         return a,b,c,d;
  }
 
+
+
+
+int Cultura_definitivo (int x){
+typedef struct
+{
+  char preguntas[200];
+  char opciones[150];
+  char soluciones;
+} cuestionario;
+
+  cuestionario vector[N];
+  FILE *fpreguntas,*fopciones,*fsoluciones;
+  int i = 0;
+  char n;
+  
+  
+  x=0;
+  fsoluciones = fopen("Cultura_Soluciones.txt","r");
+  fpreguntas = fopen("Cultura_Preguntas.txt", "r");
+  fopciones = fopen("Cultura_Opciones.txt", "r");
+  while(fscanf(fpreguntas, "%[^\n]\n", vector[i].preguntas) !=EOF && fscanf(fopciones,"%[^\n]\n",vector[i].opciones) != EOF && fscanf(fsoluciones,"%[^\n]\n",&vector[i].soluciones) !=EOF)
+    {
+      printf("%s\n\n%s\n\n",vector[i].preguntas,vector[i].opciones);
+      
+      scanf(" %c",&n); 
+      if (n==vector[i].soluciones)
+        x++;
+  
+       i++;
+    }
+  
+  fclose(fpreguntas);
+  fclose(fopciones);
+  fclose(fsoluciones);
+  SolCultura (x);
+  return x;  
+}
