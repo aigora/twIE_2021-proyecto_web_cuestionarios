@@ -14,6 +14,7 @@ int main()
     switch (opcion)
     {
           case '1':
+            system("cls");
             printf("\n  Cuestionario de personalidad\n\n\n");
             Personalidad_definitivo (a,b,c,d);
             printf("   Pulse cualquier letra para volver al menu principal\n");
@@ -21,6 +22,7 @@ int main()
             break;
 
           case '2':
+            system("cls");
             printf("\n   Test de cultura general\n\n\n");
             Cultura_definitivo (x);
             printf("   Pulse cualquier letra para volver al menu principal\n");
@@ -28,6 +30,7 @@ int main()
             break;
 
           case '3':
+            system("cls");
             printf("\n   Test de Conducir\n\n\n");
             Conducir_definitivo (x);
             printf("   Pulse cualquier letra para volver al menu principal\n");
@@ -35,6 +38,7 @@ int main()
             break;
 
           case '4':
+            system("cls");
             printf("\n   Cuestionario de Geografía\n\n\n");
             Paises_definitivo (x);
             printf("   Pulse cualquier letra para volver al menu principal\n");
@@ -42,6 +46,7 @@ int main()
             break;
 
           case '5':
+            system("cls");
             printf("\n   Cuestionario de Deportes\n\n\n");
             Deportes_definitivo (x);
             printf("   Pulse cualquier letra para volver al menu principal\n");
@@ -49,6 +54,7 @@ int main()
             break;
 
           case '6':
+            system("cls");
             printf("\n\n   Ha decidido salir de esta pagina.\n\n");
             printf("   ¡¡Esperamos que le haya gustado!!\n\n");
             break;
