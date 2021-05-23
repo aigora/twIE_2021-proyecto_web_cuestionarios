@@ -14,8 +14,6 @@ typedef struct
   char soluciones;
 } cuestionario;
 
-int main()
-{
   cuestionario vector[N];
   FILE *fpreguntas,*fopciones,*fsoluciones;
   int i = 0,x=0;
@@ -41,4 +39,4 @@ int main()
   SolCultura (x);
   return 0;  
 }
-}
+
