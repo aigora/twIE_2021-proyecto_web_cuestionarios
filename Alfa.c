@@ -1,9 +1,10 @@
-#include<stdio.h>
-
+#include <stdio.h>
+#include "Preguntas.h"
+#include "Soluciones.h"
 int main()
 {
     char opcion,f;
-
+    int a,b,c,d,x;
     printf("\n\n                           ¡¡BIENVENIDO A LA MEJOR PAGINA PARA HACER CUESTIONARIOS!!     \n\n");
     do
     {
@@ -15,6 +16,8 @@ int main()
     {
           case '1':
             printf("\n  Cuestionario de personalidad\n\n\n");
+             Personalidad_definitivo ( a, b, c, d);
+             SolPersonalidades (a, b,  c, d);
             printf("   Pulse 'f' para volver al menu principal\n");
             scanf(" %c", &f);
             break;
