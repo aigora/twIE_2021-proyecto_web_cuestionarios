@@ -16,9 +16,11 @@ typedef struct
 
   cuestionario vector[N];
   FILE *fpreguntas,*fopciones,*fsoluciones;
-  int i = 0,x=0;
+  int i = 0;
   char n;
   
+  
+  x=0;
   fsoluciones = fopen("Cultura_Soluciones.txt","r");
   fpreguntas = fopen("Cultura_Preguntas.txt", "r");
   fopciones = fopen("Cultura_Opciones.txt", "r");
@@ -37,6 +39,6 @@ typedef struct
   fclose(fopciones);
   fclose(fsoluciones);
   SolCultura (x);
-  return 0;  
+  return x;  
 }
 
