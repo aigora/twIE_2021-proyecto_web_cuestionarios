@@ -2,6 +2,7 @@
 #include<string.h>
 #include<stdlib.h>
 #include<time.h>
+#include "Soluciones.h"
 #define N 30
 #define U 38
 
@@ -97,6 +98,7 @@ typedef struct
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
+     SolCultura  ( x);
     return x;  
 }
 
