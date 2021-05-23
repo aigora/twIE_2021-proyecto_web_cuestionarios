@@ -1,8 +1,11 @@
 #include<time.h>
 #include<stdio.h>
 #include<stdlib.h>
- #define N 38
+#define N 38
 
+int Personalidad_definitivo (int a,int b,int c,int d);
+
+int Personalidad_definitivo (int a,int b,int c,int d){
 typedef struct
 {
   char preguntas[200];
@@ -10,8 +13,7 @@ typedef struct
   char soluciones;
 } cuestionario;
 
-int main()
-{
+
   cuestionario vector[N];
   FILE *fpreguntas,*fopciones,*fsoluciones;
   int i = 0,a=0, b=0, c=0, d=0;
@@ -48,5 +50,5 @@ int main()
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
-        return 0;
+        return a,b,c,d;
  }
