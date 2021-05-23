@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "Preguntas.h"
-#include "Soluciones.h"
 int main()
 {
     char opcion,f;
@@ -16,14 +15,13 @@ int main()
     {
           case '1':
             printf("\n  Cuestionario de personalidad\n\n\n");
-             Personalidad_definitivo ( a, b, c, d);
-             SolPersonalidades (a, b,  c, d);
             printf("   Pulse 'f' para volver al menu principal\n");
             scanf(" %c", &f);
             break;
 
           case '2':
             printf("\n   Test de cultura general\n\n\n");
+            Cultura_definitivo (x);
             printf("   Pulse 'f' para volver al menu principal\n");
             scanf(" %c", &f);
             break;
