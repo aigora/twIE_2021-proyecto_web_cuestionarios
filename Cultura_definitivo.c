@@ -3,7 +3,10 @@
 #include <string.h>
 #define N 30
 #include"CodSoluciones.h"
+int Cultura_definitivo (int x);
 
+
+int Cultura_definitivo (int x){
 typedef struct
 {
   char preguntas[200];
@@ -11,8 +14,6 @@ typedef struct
   char soluciones;
 } cuestionario;
 
-int main()
-{
   cuestionario vector[N];
   FILE *fpreguntas,*fopciones,*fsoluciones;
   int i = 0,x=0;
@@ -38,3 +39,4 @@ int main()
   SolCultura (x);
   return 0;  
 }
+
