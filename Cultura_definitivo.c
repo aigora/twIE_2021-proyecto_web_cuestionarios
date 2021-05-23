@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define N 30
+#include"CodSoluciones.h"
 
 typedef struct
 {
@@ -34,5 +35,6 @@ int main()
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
+  SolCultura (x);
   return 0;  
 }
