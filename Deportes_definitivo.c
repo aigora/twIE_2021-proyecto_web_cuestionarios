@@ -17,8 +17,10 @@ typedef struct
 
   cuestionario vector[N];
   FILE *fpreguntas,*fopciones,*fsoluciones;
-  int i = 0,x=0;
+  int i = 0;
   char n;
+
+ x=0;
 
   fsoluciones = fopen("Deportes_Soluciones.txt","r");
   fpreguntas = fopen("Deportes_Preguntas.txt", "r");
