@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 #define N 30
+int Conducir_definitivo (int x);
 
+int Conducir_definitivo (int x){
 typedef struct
 {
   char preguntas[200];
@@ -35,4 +37,5 @@ int main()
   fclose(fopciones);
   fclose(fsoluciones);
   return 0;
+}
 }
