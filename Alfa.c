@@ -15,6 +15,7 @@ int main()
     {
           case '1':
             printf("\n  Cuestionario de personalidad\n\n\n");
+            Personalidad_definitivo (a,b,c,d);
             printf("   Pulse 'f' para volver al menu principal\n");
             scanf(" %c", &f);
             break;

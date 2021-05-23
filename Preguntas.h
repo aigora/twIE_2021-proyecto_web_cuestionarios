@@ -60,7 +60,8 @@ typedef struct
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
-        return a,b,c,d;
+  SolPersonalidades (a,b,c,d);     
+        return 0;
  }
 
 
