@@ -16,32 +16,35 @@ int main()
           case '1':
             printf("\n  Cuestionario de personalidad\n\n\n");
             Personalidad_definitivo (a,b,c,d);
-            printf("   Pulse 'f' para volver al menu principal\n");
+            printf("   Pulse cualquier letra para volver al menu principal\n");
             scanf(" %c", &f);
             break;
 
           case '2':
             printf("\n   Test de cultura general\n\n\n");
             Cultura_definitivo (x);
-            printf("   Pulse 'f' para volver al menu principal\n");
+            printf("   Pulse cualquier letra para volver al menu principal\n");
             scanf(" %c", &f);
             break;
 
           case '3':
             printf("\n   Test de Conducir\n\n\n");
-            printf("   Pulse 'f' para volver al menu principal\n");
+            Conducir_definitivo (x);
+            printf("   Pulse cualquier letra para volver al menu principal\n");
             scanf(" %c", &f);
             break;
 
           case '4':
             printf("\n   Cuestionario de Geografía\n\n\n");
-            printf("   Pulse 'f' para volver al menu principal\n");
+            Paises_definitivo (x);
+            printf("   Pulse cualquier letra para volver al menu principal\n");
             scanf(" %c", &f);
             break;
 
           case '5':
             printf("\n   Cuestionario de Deportes\n\n\n");
-            printf("   Pulse 'f' para volver al menu principal\n");
+            Deportes_definitivo (x);
+            printf("   Pulse cualquier letra para volver al menu principal\n");
             scanf(" %c", &f);
             break;
 
@@ -53,7 +56,7 @@ int main()
 
           default:
             printf("El numero introducido no corresponde con ninguna opcion, por favor seleccione otro numero.\n");
-            printf("Pulse 'f' para volver al menu principal\n");
+            printf("Pulse cualquier letra para volver al menu principal\n");
             scanf(" %c", &f);
             break;
     }

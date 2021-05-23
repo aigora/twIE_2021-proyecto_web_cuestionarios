@@ -99,7 +99,7 @@ typedef struct
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
-     SolCultura  ( x);
+  SolCultura  (x);
     return x;  
 }
 
@@ -135,7 +135,8 @@ typedef struct
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
-  return x;
+  SolConducir (x);
+  return 0;
 }
 
 int Paises_definitivo (int x){
@@ -171,7 +172,8 @@ x=0;
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
-  return x;
+  SolPaises  (x);
+  return 0;
 }
 
 int Deportes_definitivo (int x)
@@ -207,6 +209,6 @@ typedef struct
   fclose(fpreguntas);
   fclose(fopciones);
   fclose(fsoluciones);
-  return x;
-
+  SolDeporte  (x);
+  return 0;
 }
