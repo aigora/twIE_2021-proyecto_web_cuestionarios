@@ -2,7 +2,7 @@
 #include<string.h>
 #include<stdlib.h>
 #include<time.h>
-
+#define N 30
 int SolConducir (int x);
 int SolDeporte  (int x);
 int SolCultura  (int x);
