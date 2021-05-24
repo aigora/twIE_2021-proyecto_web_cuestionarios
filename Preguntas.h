@@ -80,7 +80,8 @@ typedef struct
   int i = 0;
   char n;
   
-  
+  printf("\t\t\tTEST DE CULTURA\n AQUI PODRA AVERIGUAR CUANTOS CONOCIMIENTOS SOBRE CULTURA TIENE\n\n\");
+  printf("CADA PREGUTA CONSTA DE CUATRO RESPUESTAS\n\tTODAS LAS RESPUESTAS DEBERAN ESTAR EN MINUSCULA PARA SER VALIDADAS\n\n");
   x=0;
   fsoluciones = fopen("Cultura_Soluciones.txt","r");
   fpreguntas = fopen("Cultura_Preguntas.txt", "r");
@@ -117,6 +118,8 @@ typedef struct
   int i = 0;
   char n;
   
+  printf("\t\t\tTEST DE CONDUCIR\n AQUI PODRA AVERIGUAR SI ALGUN DIA PODRIA TENER ALGUNA POSIBILIDAD DE SACARSE EL TEORICO DE CONDUCIR\n\n\");
+  printf("CADA PREGUTA CONSTA DE CUATRO RESPUESTAS\n\tTODAS LAS RESPUESTAS DEBERAN ESTAR EN MINUSCULA PARA SER VALIDADAS\n\n");
   x=0;
   fsoluciones = fopen("Conducir_Soluciones.txt","r");
   fpreguntas = fopen("Conducir_Preguntas.txt", "r");
@@ -153,7 +156,9 @@ typedef struct
   int i = 0;
   char n;
 
-x=0;
+  printf("\t\t\tTEST DE PAISES\n AQUI PODREMOS VER SI APRENDISTE ALGO DE GEOGRAFIA EN PRIMARIA (ES DE PRIMARIA ASI QUE DEBERIAS SABERLO TODO)\n\n\");
+  printf("CADA PREGUTA CONSTA DE CUATRO RESPUESTAS\n\tTODAS LAS RESPUESTAS DEBERAN ESTAR EN MINUSCULA PARA SER VALIDADAS\n\n");
+  x=0;
 
   fsoluciones = fopen("Paises_Soluciones.txt","r");
   fpreguntas = fopen("Paises_Preguntas.txt", "r");
@@ -190,8 +195,9 @@ typedef struct
   int i = 0;
   char n;
 
- x=0;
-
+  printf("\t\t\tTEST DE DEPORTES\n CON ESTE TEST SABREMOS SI SABES ALGO SOBRE DEPORTE\n\n\");
+  printf("CADA PREGUTA CONSTA DE CUATRO RESPUESTAS\n\tTODAS LAS RESPUESTAS DEBERAN ESTAR EN MINUSCULA PARA SER VALIDADAS\n\n");
+  x=0;
   fsoluciones = fopen("Deportes_Soluciones.txt","r");
   fpreguntas = fopen("Deportes_Preguntas.txt", "r");
   fopciones = fopen("Deportes_Opciones.txt", "r");
