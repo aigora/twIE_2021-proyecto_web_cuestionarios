@@ -5,9 +5,9 @@ Se va a realizar una pagina web la cual tendra diversos cuestioniarios de difere
 ## Integrantes del equipo
 
 * Eduardo Fernandez [(Edufdezg)](https://github.com/Edufdezg)
-* Javier de la Hoz [(Javierdelahoz4)](https://github.com/Javierdelahoz4)
 * Ignacio Fernandez [(Nachofdez2708)](https://github.com/Nachofdez2708)
 * Iñigo Azqueta [(inigoazqueta)](https://github.com/inigoazqueta)
+* Javier de la Hoz [(Javierdelahoz4)](https://github.com/Javierdelahoz4)
 
 ## Objetivos del trabajo
 
